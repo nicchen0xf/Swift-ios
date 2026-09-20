@@ -19,6 +19,17 @@
 
 ---
 
+## 🔥 Features Included in v1.1.2
+- **Visuals (Hologram Location Exposed)**: Real-time enemy hologram location markers.
+- **Aim Drag**: Enhanced target acquisition and aim dragging.
+- **144 FPS Unlock**: Smooth high refresh rate 144Hz support.
+- **Magic Bullet**: Direct bullet connection enhancement.
+- **Aim Body**: High-accuracy body hit consistency.
+- **Guest Account Reset**: Clean wipe & reset utility for Free Fire MAX / TH.
+- **Engine Performance**: Ultra-fast async cloud patch delivery with zero UI latency.
+
+---
+
 ## 📱 Sideload Installation
 
 ### ✍️ Option 1: ESign
@@ -37,7 +48,8 @@
 
 ## 🛡️ Certificate & Support
 > **Need an iOS Certificate?**  
-> For Certificate Purchase Contact: **[@nxvoid12](https://t.me/nxvoid12)** on Telegram
+> For Certificate Purchase Contact: **[@nxvoid12](https://t.me/nxvoid12)** on Telegram  
+> Discord Community: **[discord.gg/KPJzd42rme](https://discord.gg/KPJzd42rme)**
 
 ---
 
